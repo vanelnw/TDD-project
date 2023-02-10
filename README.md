@@ -27,7 +27,7 @@
 
 # 📖 [School-Library-OOP-Ruby] <a name="about-project"></a>
 
-> Ruby-OOP-School-Library Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them
+> In this project we will implement a class with some methods, but we will do it by doing test-driven development (TDD). The idea is to write tests first and then the code. This will be verified in our commits history, so it is important to use the proper sequence.
 
 
 
@@ -35,6 +35,7 @@
 
 - [x] Ruby👌
 - [x] OOP ruby
+- [x] Rspec test 
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -66,9 +67,9 @@
 ### Key Features <a name="key-features"></a>
 
 
-- [ ] Add Person class and his method👌
-- [ ] Add Student class and his method💯
-- [ ] Add Teachers class and his method👌
+- [ ] Write unit tests using Rspec.👌
+- [ ] Understand an existing codebase in a way that allows for adding tests.💯
+- [ ] Write Rspec unit tests with mocks.👌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
