@@ -25,16 +25,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [School-Library-OOP-Ruby] <a name="about-project"></a>
-
-> Ruby-OOP-School-Library Imagine that you are the librarian of OOP University, and you need a tool to record what books are in the library and who borrows them
-
-
+# 📖 [TDD project] <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
 - [x] Ruby👌
 - [x] OOP ruby
+
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -176,6 +173,10 @@ Example:
 - GitHub: [Osama Ashraf](https://github.com/osamaashraf6)
 - Twitter: [Osama Ashraf](https://twitter.com/OsamaAshraf578?t=l75KjrhQgK4h-vSPfgk1gA&s=08)
 - LinkedIn: [Osama Ashraf](https://www.linkedin.com/in/osama-salem-2a046b203)
+
+👤 **Vanel Nwaba**
+- GitHub: [vanelnw](https://github.com/vanelnw)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/va-nw)
 
 
 
