@@ -111,8 +111,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd School-Library-OOP-Ruby
-  git clone https://github.com/osamaashraf6/School-Library-OOP-Ruby
+  cd TDD-project
+  git clone https://github.com/vanelnw/TDD-project.git
 ```
 
 
