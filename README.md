@@ -27,12 +27,15 @@
 
 # 📖 [TDD project] <a name="about-project"></a>
 
+> In this project we will implement a class with some methods, but we will do it by doing test-driven development (TDD). The idea is to write tests first and then the code. This will be verified in our commits history, so it is important to use the proper sequence.
+
+
+
 ## 🛠 Built With <a name="built-with"></a>
 
 - [x] Ruby👌
 - [x] OOP ruby
 - [x] Rspec test 
-
 
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -65,7 +68,7 @@
 
 
 - [ ] Write unit tests using Rspec.👌
-- [ ] Understand an existing codebase in a way that allows for adding tests.💯
+- [ ] Understand an existing codebase in a way that allows for adding tests💯
 - [ ] Write Rspec unit tests with mocks.👌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -141,6 +144,9 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+```test
+rspec ./spec/solver_spec.rb
+```
 
 <!--
 Example command:
@@ -153,6 +159,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
+> Using : Netlify or Render
 
 <!--
 Example:
@@ -174,10 +181,6 @@ Example:
 - GitHub: [Osama Ashraf](https://github.com/osamaashraf6)
 - Twitter: [Osama Ashraf](https://twitter.com/OsamaAshraf578?t=l75KjrhQgK4h-vSPfgk1gA&s=08)
 - LinkedIn: [Osama Ashraf](https://www.linkedin.com/in/osama-salem-2a046b203)
-
-👤 **Vanel Nwaba**
-- GitHub: [vanelnw](https://github.com/vanelnw)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/va-nw)
 
 
 
