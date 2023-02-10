@@ -31,6 +31,7 @@
 
 - [x] Ruby👌
 - [x] OOP ruby
+- [x] Rspec test 
 
 
 
@@ -63,9 +64,9 @@
 ### Key Features <a name="key-features"></a>
 
 
-- [ ] Add Person class and his method👌
-- [ ] Add Student class and his method💯
-- [ ] Add Teachers class and his method👌
+- [ ] Write unit tests using Rspec.👌
+- [ ] Understand an existing codebase in a way that allows for adding tests.💯
+- [ ] Write Rspec unit tests with mocks.👌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,8 +108,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd School-Library-OOP-Ruby
-  git clone https://github.com/osamaashraf6/School-Library-OOP-Ruby
+  cd TDD-project
+  git clone https://github.com/vanelnw/TDD-project.git
 ```
 
 
